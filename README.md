@@ -3,13 +3,14 @@
   **`🚀Backend e Cloud Computing`**
 
 Olá! Me chamo José Daniel, tenho 18 anos e sou natural de São Paulo.
-Concluí o Ensino Médio integrado ao curso técnico de Informática pela FIEB e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
-
-Já atuei como Jovem Aprendiz em Suporte Técnico e atualmente trabalho como Desenvolvedor Júnior na empresa IT Power, atuando com desenvolvimento e manutenção de sistemas corporativos.
+Já atuei como Suporte Técnico e atualmente trabalho como Desenvolvedor Júnior na empresa IT Power, atuando com desenvolvimento e manutenção de sistemas corporativos.
 
 No momento, estou aprofundando meus conhecimentos em Java e Spring Boot, desenvolvendo APIs REST e estudando tecnologias voltadas para backend, cloud computing e boas práticas de desenvolvimento.
 
 Tenho interesse em arquitetura de soluções, cloud e integração entre sistemas, buscando evoluir continuamente como desenvolvedor.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado como técnico em informática.
+
 
 
 <p align="left">
