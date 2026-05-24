@@ -99,6 +99,8 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
 <br>
 <br>
 
+#
+
 ### 📊 Estatísticas
 
 <img 
