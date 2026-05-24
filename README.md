@@ -2,8 +2,8 @@
 **`💻 Desenvolvedor Júnior`**
   **`🚀Backend e Cloud Computing`**
 
-Olá! Me chamo José Daniel, tenho 18 anos e sou natural de São Paulo.
-Já atuei como Suporte Técnico e atualmente trabalho como Desenvolvedor Júnior na empresa IT Power, atuando com desenvolvimento e manutenção de sistemas corporativos.
+Olá! Me chamo José Daniel e tenho 18 anos.
+Atualmente trabalho como Desenvolvedor Júnior, atuando com desenvolvimento e manutenção de sistemas corporativos.
 
 No momento, estou aprofundando meus conhecimentos em Java e Spring Boot, desenvolvendo APIs REST e estudando tecnologias voltadas para backend, cloud computing e boas práticas de desenvolvimento.
 
