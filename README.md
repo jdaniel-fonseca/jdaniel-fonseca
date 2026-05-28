@@ -46,30 +46,16 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  
 />
+
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
+    alt="AWS"
+    title="AWS" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
 />
-<img 
-    align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  
-/>
-<img 
-    align="left" 
-    alt="Azure"
-    title="Azure" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  
-/>
+
 <img 
     align="left" 
     alt="SQL Server" 
