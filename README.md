@@ -1,6 +1,6 @@
 # 👨🏾‍💻 José Daniel de Oliveira Fonseca
 **`💻 Desenvolvedor Júnior`**
-  **`🚀FullStack e Cloud Computing`**
+  **`🚀Full-Stack e Cloud Computing`**
 
 Olá! Me chamo José Daniel e tenho 18 anos.
 Atualmente trabalho como Desenvolvedor Júnior, atuando com desenvolvimento e manutenção de sistemas corporativos.
