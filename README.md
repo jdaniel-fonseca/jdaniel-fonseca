@@ -115,4 +115,8 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
   src="https://streak-stats.demolab.com?user=jdaniel-fonseca&theme=tokyonight&locale=pt_BR"
 />
 
-![snake gif](https://github.com/jdaniel-fonseca/jdaniel-fonseca/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdaniel-fonseca/jdaniel-fonseca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdaniel-fonseca/jdaniel-fonseca/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jdaniel-fonseca/jdaniel-fonseca/output/github-contribution-grid-snake.svg">
+</picture>
