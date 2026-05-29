@@ -26,7 +26,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="HTML" 
     title="HTML"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -35,7 +35,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -44,7 +44,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,7 +53,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
@@ -62,7 +62,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  
 />
@@ -71,7 +71,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="AWS"
     title="AWS" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
 />
@@ -80,7 +80,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="SQL Server" 
     title="SQL Server"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
 />
@@ -89,7 +89,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -98,7 +98,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
@@ -110,10 +110,11 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
 
 ### 📊 Estatísticas
 
-<img
-  height="180em" 
-  src="https://streak-stats.demolab.com?user=jdaniel-fonseca&theme=tokyonight&locale=pt_BR"
-/>
+<div align="center">
+
+<img height="170em" src="https://streak-stats.demolab.com?user=jdaniel-fonseca&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 #
 
