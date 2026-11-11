@@ -1,6 +1,7 @@
 # 👨🏾‍💻 José Daniel de Oliveira Fonseca
 
 **`💻 Desenvolvedor Back-end | Java & Spring Boot`**
+
 **`☁️ AWS Certified Cloud Practitioner | Cloud & DevOps`**
 
 Olá! Sou José Daniel, Desenvolvedor de Software Júnior, técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas na FIAP.
@@ -56,7 +57,7 @@ Busco evoluir continuamente como desenvolvedor, ampliando meus conhecimentos em 
     title="Postgres"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
 
 <img 
