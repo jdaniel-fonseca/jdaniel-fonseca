@@ -12,7 +12,7 @@ Tenho como principal foco de especialização o desenvolvimento **Back-end com J
 
 Sou certificado **AWS Certified Cloud Practitioner (CLF-C02)** e tenho interesse em Cloud Computing, DevOps, segurança de aplicações e arquitetura de soluções.
 
-Busco evoluir continuamente como desenvolvedor, ampliando meus conhecimentos em engenharia de software e tecnologias que contribuam para a construção de aplicações eficientes, seguras e escaláveis.
+Busco evoluir continuamente como desenvolvedor e profissional de TI, ampliando meus conhecimentos em engenharia de software e tecnologias que contribuam para a construção de aplicações eficientes, seguras e escaláveis.
 
 
 <p align="left">
