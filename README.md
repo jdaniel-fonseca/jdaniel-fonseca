@@ -6,7 +6,7 @@
 
 Olá! Sou José Daniel, Desenvolvedor de Software Júnior, técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
-Atualmente, atuo no desenvolvimento, manutenção e evolução de sistemas corporativos, trabalhando com tecnologias como ColdFusion (CFML), JavaScript e SQL Server, além de participar de integrações entre sistemas e atividades envolvendo APIs REST.
+Com experiência profissional no desenvolvimento, manutenção e evolução de sistemas corporativos, trabalhando com tecnologias como ColdFusion (CFML), JavaScript e SQL Server, além de participar de integrações entre sistemas e atividades envolvendo APIs REST.
 
 Tenho como principal foco de especialização o desenvolvimento **Back-end com Java e Spring Boot**, aprofundando meus conhecimentos em APIs REST, arquitetura de software, testes automatizados e boas práticas de desenvolvimento.
 
