@@ -1,16 +1,17 @@
 # 👨🏾‍💻 José Daniel de Oliveira Fonseca
-**`💻 Desenvolvedor Júnior`**
-  **`🚀DevOps e Cloud Computing`**
 
-Olá! Me chamo José Daniel e tenho 18 anos.
-Atualmente trabalho como Desenvolvedor Júnior, atuando com desenvolvimento e manutenção de sistemas corporativos.
+**`💻 Desenvolvedor Back-end | Java & Spring Boot`**
+**`☁️ AWS Certified Cloud Practitioner | Cloud & DevOps`**
 
-No momento, estou aprofundando meus conhecimentos em Java e Spring Boot, desenvolvendo APIs REST e estudando tecnologias voltadas para backend, cloud computing e boas práticas de desenvolvimento.
+Olá! Sou José Daniel, Desenvolvedor de Software Júnior, técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
-Tenho interesse em arquitetura de soluções, cloud e integração entre sistemas, buscando evoluir continuamente como desenvolvedor.
+Atualmente, atuo no desenvolvimento, manutenção e evolução de sistemas corporativos, trabalhando com tecnologias como ColdFusion (CFML), JavaScript e SQL Server, além de participar de integrações entre sistemas e atividades envolvendo APIs REST.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado como técnico em informática.
+Tenho como principal foco de especialização o desenvolvimento **Back-end com Java e Spring Boot**, aprofundando meus conhecimentos em APIs REST, arquitetura de software, testes automatizados e boas práticas de desenvolvimento.
 
+Sou certificado **AWS Certified Cloud Practitioner (CLF-C02)** e tenho interesse em Cloud Computing, DevOps, segurança de aplicações e arquitetura de soluções.
+
+Busco evoluir continuamente como desenvolvedor, ampliando meus conhecimentos em engenharia de software e tecnologias que contribuam para a construção de aplicações eficientes, seguras e escaláveis.
 
 
 <p align="left">
@@ -24,93 +25,60 @@ Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP e sou formado 
 
 <img 
     align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Java"
     title="Java" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  
 />
 
 <img 
     align="left" 
-    alt="Spring"
+    alt="Spring" 
     title="Spring" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 
 <img 
     align="left" 
     alt="AWS"
     title="AWS" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"       
 />
 
 <img 
     align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="35px" 
+    alt="Postgres" 
+    title="Postgres"
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
 
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
 />
 
 <img
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 />
 
 <br>
 <br>
-
-#
-
-### 📊 Estatísticas
-
-<img height="170em" src="https://streak-stats.demolab.com?user=jdaniel-fonseca&theme=tokyonight&hide_border=true"/>
 
 #
 
