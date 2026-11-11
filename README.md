@@ -22,7 +22,7 @@ Busco evoluir continuamente como desenvolvedor, ampliando meus conhecimentos em 
 </p>
 
 #
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -83,7 +83,7 @@ Busco evoluir continuamente como desenvolvedor, ampliando meus conhecimentos em 
 
 #
 
-### 🐍 Contribuições
+### Contribuições
 
 <div>
 <picture>
